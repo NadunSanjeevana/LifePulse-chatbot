@@ -1,7 +1,7 @@
 # Work-Life Balancer Chatbot (Life Pulse App)
 
 ## Overview
-The **Work-Life Balancer Chatbot** is a Python-based conversational assistant designed to enhance the functionality of the Work-Life Balancer app. The chatbot interacts with users to assist in task management, and answering queries about work-life balance. It integrates seamlessly with the backend services to deliver real-time responses and personalized recommendations. It used Qwen LLM model.
+The **Work-Life Balancer Chatbot** is a Python-based conversational assistant designed to enhance the functionality of the Work-Life Balancer app. The chatbot interacts with users to assist in task management and answer queries related to work-life balance. It integrates seamlessly with backend services to deliver real-time responses and personalized recommendations. The chatbot utilizes the Qwen LLM model with Ollama for query processing.
 
 ## Features
 - **Natural Language Processing (NLP)**: Understands user inputs using Dialogflow or Rasa.
@@ -17,7 +17,7 @@ The **Work-Life Balancer Chatbot** is a Python-based conversational assistant de
 
 ### Prerequisites
 - Python
-- Flask
+- FAST API
 - Ollama
 - Qwen Model
 
