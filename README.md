@@ -40,9 +40,4 @@ The **Work-Life Balancer Chatbot** is a Python-based conversational assistant de
    python chatbot_api.py
    ```
 
-1. Deploy the chatbot to a cloud service (e.g., Google Cloud Function):
-   ```bash
-   gcloud functions deploy chatbot --runtime nodejs14 --trigger-http
-   ```
-2. Link the chatbot with your Dialogflow or Rasa endpoint for seamless integration.
 
